@@ -2,6 +2,8 @@
 
 A Spring Boot application that automatically generates a webhook, constructs an SQL query, and submits it to the webhook endpoint on startup.
 
+<img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/25ab7c3e-21c1-40fc-a983-c1397cd19adc" />
+
 ## Project Structure
 
 ```
